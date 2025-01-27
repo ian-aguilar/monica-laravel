@@ -2880,16 +2880,16 @@ __metadata:
   linkType: hard
 
 "laravel-vite-plugin@npm:^1.0.5":
-  version: 1.0.5
-  resolution: "laravel-vite-plugin@npm:1.0.5"
+  version: 1.2.0
+  resolution: "laravel-vite-plugin@npm:1.2.0"
   dependencies:
     picocolors: "npm:^1.0.0"
     vite-plugin-full-reload: "npm:^1.1.0"
   peerDependencies:
-    vite: ^5.0.0
+    vite: ^5.0.0 || ^6.0.0
   bin:
     clean-orphaned-assets: bin/clean.js
-  checksum: 10c0/04d323e073608a208f4fa863fe65a75c77ad07233c29ffc711b7387cf481cb5207856fc5c47566cae62d90b74a753048b8cdb1b12b955005a7d7b51bbc914b7e
+  checksum: 10c0/d997ee27d45f88ede37cc24352cb95f6a8b321f9781d06d466a76e1c1463e677e3c547a5b0dd928451c68794868571db2cd397289df65e7e0d8c0d1fc09eb497
   languageName: node
   linkType: hard
 
